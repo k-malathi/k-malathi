@@ -15,7 +15,8 @@
 ---
 
 ##  Skills
-- Python 
+- Python
+- Data Science
 - Pandas & NumPy  
 - Machine Learning
 - Data Analysis 
